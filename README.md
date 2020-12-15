@@ -13,7 +13,7 @@
 ### Team members:
 
 - **Bader Abanmi**,
-- **Yasir Almutairy**
+- **Yasir Almutairi**
 - **Abdullah Alnomany**
  
 **Supervised by Dr. Eslam Al Maghayreh**
